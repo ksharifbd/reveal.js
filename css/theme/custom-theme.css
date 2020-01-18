@@ -1,0 +1,32 @@
+.custom-style {
+  color: #6200ee; }
+  .custom-style .gatsby-icon {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px; }
+  .custom-style .slide1-heading,
+  .custom-style .slide3-heading {
+    font-size: 36px;
+    color: #6200ee; }
+  .custom-style .presenter-name {
+    font-size: 36px;
+    margin-bottom: 15px; }
+  .custom-style .presenter-designation {
+    font-size: 30px;
+    margin-bottom: 5px; }
+  .custom-style .presenter-company-logo {
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+    vertical-align: middle; }
+  .custom-style .presenter-handle {
+    font-size: 28px; }
+  .custom-style .slide3-heading {
+    margin-bottom: 35px; }
+  .custom-style .slide3-reasons li {
+    font-size: 30px;
+    list-style: none;
+    display: block;
+    margin-bottom: 20px; }
+  .custom-style .blog-link {
+    font-size: 36px; }

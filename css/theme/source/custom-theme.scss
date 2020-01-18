@@ -1,0 +1,55 @@
+$primary-color: #6200ee;
+
+.custom-style {
+  color: $primary-color;
+
+  .gatsby-icon {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+  }
+
+  .slide1-heading,
+  .slide3-heading {
+    font-size: 36px;
+    color: $primary-color;
+  }
+
+  .presenter-name {
+    font-size: 36px;
+    margin-bottom: 15px;
+  }
+
+  .presenter-designation {
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+
+  .presenter-company-logo {
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+    vertical-align: middle;
+  }
+
+  .presenter-handle {
+    font-size: 28px;
+  }
+
+  .slide3-heading {
+    margin-bottom: 35px;
+  }
+
+  .slide3-reasons {
+    li {
+      font-size: 30px;
+      list-style: none;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  .blog-link {
+    font-size: 36px;
+  }
+}
